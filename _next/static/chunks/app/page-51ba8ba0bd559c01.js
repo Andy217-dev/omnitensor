@@ -461,41 +461,7 @@
                               }),
                             ],
                           }),
-                        }),
-                        (0, i.jsxs)("div", {
-                          children: [
-                            (0, i.jsx)("h4", {
-                              className: u().robotoMono,
-                              target: "_blank",
-                              children: "Products",
-                            }),
-                            (0, i.jsxs)("ul", {
-                              children: [
-                                (0, i.jsx)("li", {
-                                  children: (0, i.jsx)("a", {
-                                    href: C.productLink1,
-                                    target: "_blank",
-                                    children: "Dashboard",
-                                  }),
-                                }),
-                                (0, i.jsx)("li", {
-                                  children: (0, i.jsx)("a", {
-                                    href: C.productLink3,
-                                    target: "_blank",
-                                    children: "AI Marketplace",
-                                  }),
-                                }),
-                                (0, i.jsx)("li", {
-                                  children: (0, i.jsx)("a", {
-                                    href: C.productLink4,
-                                    target: "_blank",
-                                    children: "dApp Store",
-                                  }),
-                                }),
-                              ],
-                            }),
-                          ],
-                        }),
+                        }),                        
                         (0, i.jsxs)("div", {
                           children: [
                             (0, i.jsx)("h4", {
@@ -509,13 +475,6 @@
                                     href: C.docsLink,
                                     target: "_blank",
                                     children: "Documentation",
-                                  }),
-                                }),
-                                (0, i.jsx)("li", {
-                                  children: (0, i.jsx)("a", {
-                                    href: C.blogLink,
-                                    target: "_blank",
-                                    children: "Blog",
                                   }),
                                 }),
                                 (0, i.jsx)("li", {
