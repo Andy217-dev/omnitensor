@@ -364,24 +364,24 @@
           {
             title: "Twitter",
             icon: "/images/social_icons_community/x.svg",
-            link: "https://x.com/OmniTensor",
+            link: "https://x.com/",
           },
           {
             title: "Telegram",
             icon: "/images/social_icons_community/telegram.svg",
-            link: "https://t.me/OmniTensor",
+            link: "https://t.me/",
           },
         ],
         w = [
           {
             title: "App",
             icon: "/images/social_icons_community/web.svg",
-            link: "https://app.omnitensor.io/agents",
+            link: "https://app-omnitensor.vercel.app/agents",
           },
           {
             title: "Twitter",
             icon: "/images/social_icons_community/x.svg",
-            link: "https://x.com/OmniTensorBrain",
+            link: "https://x.com/",
           },
         ],
         C = {
@@ -684,7 +684,7 @@
                               (0, i.jsx)("button", {
                                 onClick: () => {
                                   window.open(
-                                    "https://app.omnitensor.io/",
+                                    "https://app-omnitensor.vercel.app/",
                                     "_blank"
                                   );
                                 },
