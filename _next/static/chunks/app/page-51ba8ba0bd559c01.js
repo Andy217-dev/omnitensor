@@ -283,35 +283,35 @@
             logo: "/images/products_illustrations/ai_marketplace.png",
             text: "Access a wide range of AI models for text, image, speech and data processing, or train your own models.",
             alt: "illustration",
-            link: "https://docs.omnitensor.io/products/ai-model-marketplace",
+            link: "https://hajans-organization123.gitbook.io/omnitensor/products/ai-model-marketplace",
           },
           {
             title: "dApp Store",
             logo: "/images/products_illustrations/dapp_store.png",
             text: "Explore and deploy AI dApps that integrate seamlessly with business operations or enhance personal projects.",
             alt: "illustration",
-            link: "https://docs.omnitensor.io/products/dapp-store",
+            link: "https://hajans-organization123.gitbook.io/omnitensor/products/dapp-store",
           },
           {
             title: "Data Layer",
             logo: "/images/products_illustrations/data_layer.png",
             text: "Tap into OmniTensor’s community-collected and validated data for training and testing AI models at scale.",
             alt: "illustration",
-            link: "https://docs.omnitensor.io/products/data-layer",
+            link: "https://hajans-organization123.gitbook.io/omnitensor/products/data-layer",
           },
           {
             title: "Customizable Solutions",
             logo: "/images/products_illustrations/custom_solution.png",
             text: "Leverage OmniTensor’s decentralized network to tune AI models to your specific needs, whether for predictive analytics, language processing, or automation.",
             alt: "illustration",
-            link: "https://docs.omnitensor.io/products/customizable-solutions",
+            link: "https://hajans-organization123.gitbook.io/omnitensor/products/customizable-solutions",
           },
           {
             title: "AI Inference Network",
             logo: "/images/products_illustrations/ai_network.png",
             text: "Scale your AI models efficiently with OmniTensor’s decentralized inference network, optimizing costs while maintaining high performance.",
             alt: "illustration",
-            link: "https://docs.omnitensor.io/products/ai-inference-network",
+            link: "https://hajans-organization123.gitbook.io/omnitensor/products/ai-inference-network",
           },
         ],
         b = {
@@ -391,14 +391,14 @@
           productLink2: "https://explorer.omnitensor.io",
           productLink3: "https://models.omnitensor.io",
           productLink4: "https://store.omnitensor.io",
-          docsLink: "https://docs.omnitensor.io/",
+          docsLink: "https://hajans-organization123.gitbook.io/omnitensor/",
           blogLink: "https://omnitensorio.medium.com/",
           gettingStartedLink:
-            "https://docs.omnitensor.io/getting-started/setting-up-your-account",
+            "https://hajans-organization123.gitbook.io/omnitensor/getting-started/setting-up-your-account",
           tutorialsLink:
-            "https://docs.omnitensor.io/tutorials-and-examples/building-ai-dapps-step-by-step",
-          termsLink: "https://docs.omnitensor.io/legal/terms-of-service",
-          privacyLink: "https://docs.omnitensor.io/legal/privacy-policy",
+            "https://hajans-organization123.gitbook.io/omnitensor/tutorials-and-examples/building-ai-dapps-step-by-step",
+          termsLink: "https://hajans-organization123.gitbook.io/omnitensor/legal/terms-of-service",
+          privacyLink: "https://hajans-organization123.gitbook.io/omnitensor/legal/privacy-policy",
           copyrightLink: "",
         };
       var k = () =>
@@ -582,7 +582,7 @@
       let L = () =>
         (0, i.jsx)("button", {
           onClick: () => {
-            window.open("https://docs.omnitensor.io/", "_blank");
+            window.open("https://hajans-organization123.gitbook.io/omnitensor/", "_blank");
           },
           className: T().secondaryButton,
           children: "Learn More",
